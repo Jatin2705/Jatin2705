@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jatin2705/Jatin2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>jatin@github ~ $ ./contributions.sh</code></h3>
 
-Here are some ideas to get you started:
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><code>jatin@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Terminal information card" /></td>
+  </tr>
+</table>
+
+<br>
+
+<code>CSE Student • Backend Developer • Open Source Enthusiast</code><br>
+<code>Android Development • Game Development</code>
+
+</div>
+
+---
+
+### <code>jatin@github ~ $ stack</code>
+
+```text
+C++ • Java • Python • JavaScript • React • Next.js • Flask • Git • Docker
+```
+
+### <code>jatin@github ~ $ currently</code>
+
+- Building backend and full-stack projects
+- Learning through open source contributions
+- Exploring Android development and game development
+- Improving problem-solving with DSA
+
+---
+
+<sub>Generated with self-hosted SVGs + GitHub Actions. No third-party stats service.</sub>
