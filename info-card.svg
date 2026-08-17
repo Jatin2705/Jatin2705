@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="330" viewBox="0 0 490 330">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .line { opacity: 0; animation: show .45s ease forwards; }
+  .l1{animation-delay:.25s}.l2{animation-delay:.45s}.l3{animation-delay:.65s}.l4{animation-delay:.85s}.l5{animation-delay:1.05s}.l6{animation-delay:1.25s}.l7{animation-delay:1.45s}
+  @keyframes show { from { opacity:0; transform:translateX(-8px) } to { opacity:1; transform:translateX(0) } }
+</style>
+<rect x="1" y="1" width="488" height="328" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="38" rx="12" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#f85149"/><circle cx="42" cy="20" r="6" fill="#d29922"/><circle cx="62" cy="20" r="6" fill="#3fb950"/>
+<text x="84" y="25" font-size="14" fill="#8b949e">jatin@github:~</text>
+<text x="28" y="75" font-size="20" font-weight="700" fill="#58a6ff" class="line l1">Jatin2705</text>
+<text x="28" y="105" font-size="14" fill="#8b949e" class="line l2">role      <tspan fill="#f0f6fc">CSE Student</tspan></text>
+<text x="28" y="133" font-size="14" fill="#8b949e" class="line l3">focus     <tspan fill="#f0f6fc">Backend Development</tspan></text>
+<text x="28" y="161" font-size="14" fill="#8b949e" class="line l4">interest  <tspan fill="#f0f6fc">Open Source</tspan></text>
+<text x="28" y="189" font-size="14" fill="#8b949e" class="line l5">exploring <tspan fill="#f0f6fc">Android • Game Dev</tspan></text>
+<text x="28" y="225" font-size="14" fill="#8b949e" class="line l6">stack</text>
+<text x="45" y="249" font-size="13" fill="#39d353" class="line l6">C++ • Java • Python • JavaScript</text>
+<text x="45" y="273" font-size="13" fill="#39d353" class="line l7">React • Next.js • Flask • Git • Docker</text>
+<text x="28" y="307" font-size="12" fill="#6e7681" class="line l7">$ keep building. keep learning. keep shipping.</text>
+</svg>
