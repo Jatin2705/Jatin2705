@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="330" viewBox="0 0 370 330">
+<style>
+ text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 7px; fill:#c9d1d9; }
+ .row { opacity:0; animation: reveal .28s ease forwards; }
+ .r1{animation-delay:.1s}.r2{animation-delay:.16s}.r3{animation-delay:.22s}.r4{animation-delay:.28s}.r5{animation-delay:.34s}.r6{animation-delay:.40s}.r7{animation-delay:.46s}.r8{animation-delay:.52s}.r9{animation-delay:.58s}.r10{animation-delay:.64s}.r11{animation-delay:.70s}.r12{animation-delay:.76s}.r13{animation-delay:.82s}.r14{animation-delay:.88s}.r15{animation-delay:.94s}.r16{animation-delay:1s}.r17{animation-delay:1.06s}.r18{animation-delay:1.12s}.r19{animation-delay:1.18s}.r20{animation-delay:1.24s}.r21{animation-delay:1.30s}.r22{animation-delay:1.36s}.r23{animation-delay:1.42s}.r24{animation-delay:1.48s}.r25{animation-delay:1.54s}
+ @keyframes reveal { from{opacity:0; transform:translateX(-12px)} to{opacity:1; transform:translateX(0)} }
+</style>
+<rect width="370" height="330" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="16" y="25" fill="#58a6ff">jatin@github ~ $ cat portrait.txt</text>
+<g text-anchor="middle">
+<text class="row r1" x="185" y="55">                 .-''''-.                 </text>
+<text class="row r2" x="185" y="66">              .-'        '-.              </text>
+<text class="row r3" x="185" y="77">            .'     .--.     '.            </text>
+<text class="row r4" x="185" y="88">           /      /    \      \           </text>
+<text class="row r5" x="185" y="99">          ;      |  o  o|      ;          </text>
+<text class="row r6" x="185" y="110">          |      |   __ |      |          </text>
+<text class="row r7" x="185" y="121">          ;       \ '--/       ;          </text>
+<text class="row r8" x="185" y="132">           \       '----'      /           </text>
+<text class="row r9" x="185" y="143">            '.              .'             </text>
+<text class="row r10" x="185" y="154">              '-.        .-'               </text>
+<text class="row r11" x="185" y="165">                /      \                  </text>
+<text class="row r12" x="185" y="176">              .'  .--.  '.                </text>
+<text class="row r13" x="185" y="187">             /   /    \   \               </text>
+<text class="row r14" x="185" y="198">            /___/      \___\              </text>
+<text class="row r15" x="185" y="209">           /   /        \   \             </text>
+<text class="row r16" x="185" y="220">          /___/          \___\            </text>
+<text class="row r17" x="185" y="231">              |   JATIN   |                </text>
+<text class="row r18" x="185" y="242">              |            |                </text>
+<text class="row r19" x="185" y="253">              |  BACKEND   |                </text>
+<text class="row r20" x="185" y="264">              |  BUILDER   |                </text>
+<text class="row r21" x="185" y="275">              '------------'                </text>
+<text class="row r22" x="185" y="295" fill="#39d353">[ ASCII PORTRAIT PLACEHOLDER ]</text>
+<text class="row r23" x="185" y="309" fill="#8b949e">Upload a photo to replace this.</text>
+</g>
+</svg>
